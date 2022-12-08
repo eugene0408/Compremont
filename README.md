@@ -4,4 +4,4 @@ Landing page of computer repair workshop
 -carousel of services  
 -responsive design  
 
-Live site: http://kompremont.tk/
+Live site: http://compremont.ml/
