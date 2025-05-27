@@ -24,7 +24,7 @@ This is a simple, responsive landing page created for a computer repair workshop
 
 This project was created as a promotional site for a computer repair workshop and as my **first hands-on experience** with frontend development and responsive design.
 
----
 
-> 💡 _Note: This project represents my early work and learning stage in web development._
+
+>  _Note: This project represents my early work and learning stage in web development._
 
