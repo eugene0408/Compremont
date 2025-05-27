@@ -1,4 +1,4 @@
-# Compremont – Computer Repair Landing Page
+# Computer Repair Landing Page
 
 This is a simple, responsive landing page created for a computer repair workshop built using HTML, Sass, jQuery, and popular UI libraries.
 
