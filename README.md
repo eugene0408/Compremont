@@ -12,7 +12,7 @@ This is a simple, responsive landing page created for a computer repair workshop
 
 ## Tech Stack
 
-- **HTML5**
+- **HTML**
 - **Sass**
 - **jQuery**
 - [Bootstrap 4](https://getbootstrap.com/)
